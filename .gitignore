@@ -1,0 +1,8 @@
+.nvm
+.env
+4K-Video-Unbelievable Beauty.mp4
+node_modules
+package-lock.json
+accessLog
+assets/*
+public/uploads/*
